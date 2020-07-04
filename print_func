@@ -1,3 +1,0 @@
-void Print(){
-   cout<<"Hello world\n";
-}
