@@ -1,2 +1,3 @@
 # Project-for-example-basic-githhub
-introduce
+introducE
+smth
