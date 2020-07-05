@@ -2,5 +2,7 @@ hpinwe mfian
 cout<<"smth\n";
 cout<<"Here we go\n";
 cout<<"one more is not bad\n";
+cout<<"...";
+
 cout<<"hello word\n";
 cout<<"hello\n";
