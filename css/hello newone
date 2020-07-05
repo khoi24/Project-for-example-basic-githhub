@@ -1,3 +1,6 @@
 hello word
 cout<<"hello world\n";
+<<<<<<< HEAD
 cout<<"hi\n";
+=======
+>>>>>>> master
