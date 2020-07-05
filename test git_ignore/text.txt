@@ -1,1 +1,4 @@
 hpinwe mfian
+cout<<"smth\n";
+cout<<"hello word\n";
+cout<<"hello\n";
